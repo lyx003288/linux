@@ -1,4 +1,4 @@
-# some linux Common examples of commands
+# some linux common examples of commands
 
 #### 正在整理云笔记上的内容，不定时更新
 
