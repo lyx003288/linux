@@ -5,3 +5,4 @@
 |id|title|
 |:---:|:---:|
 |0001|[find命令的一些常见用法](https://github.com/lyx003288/linux/blob/master/0001.find.sh)|
+|0002|[查看文件内容cat、more等命令](https://github.com/lyx003288/linux/blob/master/0002.content.sh)|
